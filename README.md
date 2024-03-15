@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1633330783187/nUsZeZ1MB.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm)]
+
 <h1 align="center">Hi 👋, I'm Ankit Jatav</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
