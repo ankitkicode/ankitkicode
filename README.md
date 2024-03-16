@@ -1,38 +1,31 @@
+# 💫 About Me:
+## Hey there! 👋<br><br>I'm Ankit jatav, a passionate full-stack developer based Bhopal. Welcome to my GitHub profile! Here are a few things about me:<br><br>- 🔨 I'm currently working on honing my skills in React.js, building interactive and dynamic user interfaces to create delightful web experiences.<br>  <br>- 🤝 I'm looking to collaborate on open-source projects related to web development, particularly those focusing on accessibility and user experience.<br><br>- 📚 I'm currently learning advanced React.js concepts like context API, hooks, and server-side rendering to level up my front-end development skills.<br><br>- ❓ Ask me about anything related to JavaScript, Node.js, React, Express, MongoDB. I'm always happy to share knowledge and help fellow developers!<br><br>- How to reach me jatavankit486@gmail.com
+📄 Know about my experiences https://drive.google.com/drive/folders/1DENsxC_zq9I7W9rskDVTGwTktPNF6S3E <br><br>-🎉 Fun fact: In my free time, I enjoy experimenting with cooking exotic dishes from around the world. I believe coding and cooking share a lot in common – both require creativity, precision, and attention to detail!<br><br>Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/ankit-jatav-48b9b8257/)!<br><br>Let's code some awesome stuff together! 💻✨<br>
 
-<h1 align="center">Hi 👋, I'm Ankit Jatav</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on [Instagram-Clone](https://github.com/ankitkicode/Instagram-with-Story-Feature)
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/people/Ankit_ki_code/100088717605517/?mibextid=qi2Omg) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankit_ki_code) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankit-jatav-48b9b8257/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ankitjatav165) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@ankit_ki_code) 
 
-- 🌱 I’m currently learning **React js**
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ankitkicode&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ankitkicode&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkicode&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ankit-jatav-48b9b8257/](https://www.linkedin.com/in/ankit-jatav-48b9b8257/)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ankitkicode&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- 📝 I regularly write articles on [https://ankitkicode.hashnode.dev/](https://ankitkicode.hashnode.dev/)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-- 💬 Ask me about **react,restful api,node js,express,mongodb**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ankitkicode&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-- 📫 How to reach me **jatavankit486@gmail.com**
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1DENsxC_zq9I7W9rskDVTGwTktPNF6S3E](https://drive.google.com/drive/folders/1DENsxC_zq9I7W9rskDVTGwTktPNF6S3E)
+---
+[![](https://visitcount.itsvg.in/api?id=ankitkicode&icon=0&color=3)](https://visitcount.itsvg.in)
 
-- ⚡ Fun fact **I enjoy learning new languages - whether it's a programming language or a spoken one! 🌍✨**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/ankitjatav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/ankitjatav" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ankit-jatav-48b9b8257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankit-jatav-48b9b8257/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ankit_ki_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ankit_ki_code" height="30" width="40" /></a>
-<a href="https://dribbble.com/ankitjatav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/ankitjatav" height="30" width="40" /></a>
-<a href="https://ankitkicode.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://ankitkicode.hashnode.dev/" height="30" width="40" /></a>
-<a href="https://medium.com/@aj0353342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aj0353342" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@ankit_ki_code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@ankit_ki_code" height="30" width="40" /></a>
-<a href="https://leetcode.com/ankit_ki_code/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ankit_ki_code/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitkicode&show_icons=true&locale=en&layout=compact" alt="ankitkicode" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitkicode&show_icons=true&locale=en" alt="ankitkicode" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
