@@ -3,6 +3,8 @@
 
 
 ## 🌐 Socials:
+# buttons-package-ankitkicode
+[![npm version](https://img.shields.io/npm/v/buttons-package-ankitkicode)](https://www.npmjs.com/package/buttons-package-ankitkicode)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/people/Ankit_ki_code/100088717605517/?mibextid=qi2Omg) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ankit_ki_code) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-jatav-48b9b8257/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ankitjatav165) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@ankit_ki_code)
 
 
