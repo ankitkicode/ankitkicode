@@ -1,5 +1,4 @@
 # 💫 About Me
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=A8F1FF&vCenter=true&lines=Full+Stack+Web+Developer!;MERN+Stack+Engineer!;Blockchain+Explorer!;Open+Source+Contributor!)](https://git.io/typing-svg)
 ### Hey there! 👋  
 I'm **Ankit Jatav**, a passionate full-stack developer based in **Bhopal**.
@@ -90,6 +89,18 @@ Let’s build something amazing together. 💻✨
 </p>
 
 ---
+<!-- ════════════ 🐍 GITHUB SNAKE ANIMATION ════════════ -->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
 
 ## 📊 GitHub Stats
 
