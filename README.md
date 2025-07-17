@@ -1,7 +1,9 @@
 # 💫 About Me
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=A8F1FF&vCenter=true&lines=Full+Stack+Web+Developer!;MERN+Stack+Engineer!;Blockchain+Explorer!;Open+Source+Contributor!)](https://git.io/typing-svg)
 ### Hey there! 👋  
 I'm **Ankit Jatav**, a passionate full-stack developer based in **Bhopal**.
+
 
 Welcome to my GitHub profile! Here's a little about me:
 
@@ -92,36 +94,23 @@ Let’s build something amazing together. 💻✨
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitkicode&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitkicode&theme=radical&hide_border=false" width="49%" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitkicode&theme=tokyonight" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankitkicode&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankitkicode&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitkicode&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankitkicode&theme=tokyonight&utcOffset=5.5" width="48%" />
 </div>
 
----
-## 🏆 GitHub Trophies
+----
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankitkicode&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
-</div>
+<!-- ════════════ ☕️ SUPPORT ME ════════════ -->
 
----
+## ☕ Support Me
 
-## ✍️ Dev Quote
+<a href="https://www.buymeacoffee.com/ankitkicode" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-darkgreen?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
+</a>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
-</div>
-
----
-
-## 🔝 Top Contributed Repositories
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ankitkicode&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-</div>
-
----
 
 ## 📈 Visitor Count
 
@@ -129,6 +118,13 @@ Let’s build something amazing together. 💻✨
   <img src="https://komarev.com/ghpvc/?username=ankitkicode&label=Profile%20Views&color=0e75b6&style=flat" alt="ankitkicode" />
 </div>
 
+---
+
+<!-- ════════════ © YOUR NAME ════════════ -->
+
+<p align="center">
+  © 2025 Ankit Jatav — Let's build something amazing! 🚀
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
