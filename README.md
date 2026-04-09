@@ -7,9 +7,9 @@ I'm **Ankit Jatav**, a passionate full-stack developer based in **Bhopal**.
 Welcome to my GitHub profile! Here's a little about me:
 
 - 💼 Currently working as a **Full-Stack Developer**, gaining hands-on industry experience.
-- 🛠️ I have **1+ year of experience** in **MERN stack development**, building scalable and responsive web applications.
-- 🔍 Recently started exploring the world of **Blockchain** and **Web3**, and I’m excited to dive deeper into decentralized technologies.
-- 🤝 Open to collaborating on **web development**, **open-source**, and **blockchain** projects — especially those focused on **accessibility** and **user experience**.
+- 🛠️ I have **1.5+ year of experience** in **MERN stack development**, building scalable and responsive web applications.
+- 🔍 Recently started exploring the world of **React** and **Nodejs**, and I’m excited to dive deeper into decentralized technologies.
+- 🤝 Open to collaborating on **web development**, **open-source**, and **team** projects — especially those focused on **accessibility** and **user experience**.
 - 📚 Always learning — currently brushing up advanced React concepts like **Context API**, **Hooks**, and **Server-Side Rendering**.
 - 💬 Ask me about **JavaScript**, **Node.js**, **React**, **Express**, **MongoDB**, or even my early steps in **Blockchain** — I’d be happy to share!
 - 🍳 Fun Fact: I love experimenting with exotic cooking. I believe coding and cooking are both creative crafts that require patience and precision. 😉
